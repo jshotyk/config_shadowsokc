@@ -1,0 +1,10 @@
+{
+    "server": "192.168.0.11",
+    "server_port": 80,
+    "password": "123456",
+    "timeout": 60,
+    "method": "chacha20-ietf-poly1305",
+    "fast_open": true,
+    "plugin": "v2ray-plugin",
+    "plugin_opts": "server"
+}
