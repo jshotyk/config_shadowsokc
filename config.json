@@ -1,5 +1,5 @@
 {
-    "server": "192.168.0.11",
+    "server": "192.168.0.12",
     "server_port": 80,
     "password": "123456",
     "timeout": 60,
